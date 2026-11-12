@@ -1,0 +1,13 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.xcodeproj
+*.xcworkspace
+Content/Blockland/
+*.suo
+*.user
+*.VC.db
+*.opendb
